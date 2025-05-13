@@ -1,7 +1,7 @@
 # Minishell
 This project is the most challenging one in C at 42. When i started it, I was truly excited to dive deep into the subject. That's why I'd say "Hold on to your excitement  until the very end of the project. 
 
-# DEFINITION FOR THIS PROJECT
+# Definiton
 
 A sipmlified Unix-Shell implemendation written in C language. This project replicates essential features of a standard shell like bash, including command parsing, execution, and enviroment management while handling input/output redirection and pipelines.
 

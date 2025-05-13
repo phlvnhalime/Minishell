@@ -3,7 +3,7 @@ This project is the most challenging one in C at 42. When i started it, I was tr
 
 # Definiton
 
-A sipmlified Unix-Shell implemendation written in C language. This project replicates essential features of a standard shell like bash, including command parsing, execution, and enviroment management while handling input/output redirection and pipelines.
+A simplified Unix-Shell implemendation written in C language. This project replicates essential features of a standard shell like bash, including command parsing, execution, and enviroment management while handling input/output redirection and pipelines.
 
 # 🚀 Features
 Execution of built-in and external commands
